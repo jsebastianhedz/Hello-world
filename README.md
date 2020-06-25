@@ -1,2 +1,4 @@
 # Hello-world
-Just another repository
+Hola animalitos, 
+
+Estoy aqui para iniciar en GitHub
